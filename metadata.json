@@ -1,0 +1,6 @@
+{
+  "name": "Chromemax",
+  "description": "Boutique moderne et élégante de lunettes de soleil premium Chromemax.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
